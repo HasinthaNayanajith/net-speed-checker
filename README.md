@@ -1,5 +1,5 @@
 # Net Speed Checker
-Version - 1.0.25\
+Latest Version - 1.0.27\
 ![Net Speed Checker Logo](https://avocadolk.000webhostapp.com/products/NetSpeedCheckerBanner01.png)
 
 ## Introduction
@@ -14,7 +14,7 @@ Net Speed Checker is a lightweight application developed using C# and .NET Frame
 * Without disturbing other applications, Speedometer act as a top most layer enabling user to monitor network speed always.
 * Automatically check for new updates and, download and install them easily.
 
-[![Download Now](https://avocadolk.000webhostapp.com/netspeedchecker-images/10g.png)](https://avocadolk.000webhostapp.com/NetSpeedCheckerNewVersion.zip)
+[![Download Now](https://avocadolk.000webhostapp.com/netspeedchecker-images/10g.png)](https://avocadolk.000webhostapp.com/NetSpeedCheckerNewVersionMSI.zip)
 
 ## How to Install
 * Download & install it as a normal .exe setup. It's Simple.
@@ -32,7 +32,7 @@ Net Speed Checker is a lightweight application developed using C# and .NET Frame
 ![Select Network Speed Checker SS](https://avocadolk.000webhostapp.com/netspeedchecker-images/05g.jpg)
 ![Select Network Speed Checker SS](https://avocadolk.000webhostapp.com/netspeedchecker-images/07g.jpg)
 
-[![Download Now](https://avocadolk.000webhostapp.com/netspeedchecker-images/10g.png)](https://avocadolk.000webhostapp.com/NetSpeedCheckerNewVersion.zip)
+[![Download Now](https://avocadolk.000webhostapp.com/netspeedchecker-images/10g.png)](https://avocadolk.000webhostapp.com/NetSpeedCheckerNewVersionMSI.zip)
 
 ## Systen Requirements
 OS Version: Best Support with Windows 10 & 11.
