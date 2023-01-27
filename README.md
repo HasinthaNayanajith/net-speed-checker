@@ -1,5 +1,5 @@
 # Net Speed Checker
-Latest Version - 1.0.29\
+Latest Version - 1.0.30\\
 ![Net Speed Checker Logo](https://avocadolk.000webhostapp.com/products/NetSpeedCheckerBanner01.png)
 
 ## Introduction
