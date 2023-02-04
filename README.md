@@ -3,13 +3,12 @@
 [![.NET](https://img.shields.io/badge/--512BD4?logo=.net&logoColor=ffffff)](https://dotnet.microsoft.com/)
 [![Windows](https://badgen.net/badge/icon/windows?icon=windows&label)](https://microsoft.com/windows/)<br><br>
 Latest Version - 1.0.32 (Beta)\
-<b>>>>Because this software is still in its beta version, there may be frequent updates.</b>
+<b>Because this software is still in its beta version, there may be frequent updates.</b>
+![Net Speed Checker](https://avocadolk.000webhostapp.com/products/NetSpeedCheckerBanner01.png)
 <hr>
 
-<img src="https://avocadolk.000webhostapp.com/products/NetSpeedCheckerBanner01.png" alt="Net Speed Checker">
-
 ## Introduction
-Net Speed Checker is a lightweight application developed using C# and .NET Framework that displays your current network download and upload speeds on the taskbar (or you can place it anywhere on the screen) of your windows computer. The software is designed to give users a detailed view of their network’s upload and download speeds, as well as the ability to track number of bytes sent and received over time. The software is designed to be lightweight and non-intrusive, and it can be used to monitor the performance of both wired and wireless networks. Also, with a user-friendly and modern interface, Net Speed Checker is easy to use and understand, making it the perfect tool for anyone who is looking to monitor the real time download and upload speed of their network.
+Net Speed Checker is a light-weight application developed using C# and .NET Framework that displays your current network download and upload speeds on the taskbar (or you can place it anywhere on the screen) of your windows computer. The software is designed to give users a detailed view of their network’s upload and download speeds, as well as the ability to track number of bytes sent and received over time. The software is designed to be lightweight and non-intrusive, and it can be used to monitor the performance of both wired and wireless networks. Also, with a user-friendly and modern interface, Net Speed Checker is easy to use and understand, making it the perfect tool for anyone who is looking to monitor the real time download and upload speed of their network.
 
 ## Features
 * Track Real Time Network Speed.
