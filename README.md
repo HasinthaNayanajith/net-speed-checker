@@ -2,7 +2,7 @@
 [![Visual Studio](https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label)](https://visualstudio.microsoft.com)
 [![.NET](https://img.shields.io/badge/--512BD4?logo=.net&logoColor=ffffff)](https://dotnet.microsoft.com/)
 [![Windows](https://badgen.net/badge/icon/windows?icon=windows&label)](https://microsoft.com/windows/)<br><br>
-Latest Version - 1.0.32 (Beta)\
+Latest Version - 1.0.33 (Beta)\
 <b>Because this software is still in its beta version, there may be frequent updates.</b>
 ![Net Speed Checker](https://avocadolk.000webhostapp.com/products/NetSpeedCheckerBanner01.png)
 <hr>
@@ -19,8 +19,8 @@ Net Speed Checker is a light-weight application developed using C# and .NET Fram
 * Without disturbing other applications, Speedometer act as a top most layer enabling user to monitor network speed always.
 * Automatically check for new updates and, download and install them easily.
 
-[![Download Now](https://avocadolk.000webhostapp.com/downloadbtn.jpg)](https://github.com/HasinthaNayanajith/net-speed-checker/raw/main/Net%20Speed%20Checker%20v1-0-32.msi)
-Download File Version - Latest v1.0.32 (Beta) .msi Installer
+[![Download Now](https://avocadolk.000webhostapp.com/downloadbtn.jpg)](https://github.com/HasinthaNayanajith/net-speed-checker/raw/main/Net%20Speed%20Checker%20v1-0-33.msi)
+Download File Version - Latest v1.0.33 (Beta) .msi Installer
 
 ## How to Install
 * Download & install it as a normal .exe setup. It's Simple.
@@ -38,8 +38,8 @@ Download File Version - Latest v1.0.32 (Beta) .msi Installer
 ![Select Network Speed Checker SS](https://avocadolk.000webhostapp.com/netspeedchecker-images/05g.jpg)
 ![Select Network Speed Checker SS](https://avocadolk.000webhostapp.com/netspeedchecker-images/07g.jpg)
 
-[![Download Now](https://avocadolk.000webhostapp.com/downloadbtn.jpg)](https://github.com/HasinthaNayanajith/net-speed-checker/raw/main/Net%20Speed%20Checker%20v1-0-32.msi)
-Download File Version - Latest v1.0.32 (Beta) .msi Installer
+[![Download Now](https://avocadolk.000webhostapp.com/downloadbtn.jpg)](https://github.com/HasinthaNayanajith/net-speed-checker/raw/main/Net%20Speed%20Checker%20v1-0-33.msi)
+Download File Version - Latest v1.0.33 (Beta) .msi Installer
 
 ## System Requirements
 OS Version: Best Support with Windows 10 & 11.
