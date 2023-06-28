@@ -18,7 +18,7 @@ Download File Version - Latest v1.0.33 (Beta) .msi Installer
 
 ## How to Install
 * Download & install it as a normal .exe setup. It's Simple.
-* Once installed, it will asked you to select your network adapter. At that time, Select your network adapter from the list of adapters which is connected to the internet at the moment.\
+* When you run it for the first time, it will asked you to select your network adapter. At that time, Select your network adapter from the list of adapters which is connected to the internet at the moment.\
 \
 ![Select Network Adapter IMG](https://github.com/HasinthaNayanajith/net-speed-checker/raw/main/11.jpg)
 
