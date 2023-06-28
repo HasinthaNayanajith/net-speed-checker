@@ -23,19 +23,19 @@ Download File Version - Latest v1.0.33 (Beta) .msi Installer
 * Download & install it as a normal .exe setup. It's Simple.
 * Once installed, it will asked you to select your network adapter. At that time, Select your network adapter from the list of adapters which is connected to the internet at the moment.\
 \
-![Select Network Adapter IMG](https://github.com/HasinthaNayanajith/net-speed-checker/blob/main/11.jpg)
+![Select Network Adapter IMG](https://github.com/HasinthaNayanajith/net-speed-checker/raw/main/11.jpg)
 
 * If you think network speed is not showing correctly, click the setting button. Then the Management Window will appear and change the selected network adapter there. Restart the application to take place the changes.
 
 ## Screenshots
-![Select Network Adapter IMG](https://github.com/HasinthaNayanajith/net-speed-checker/blob/main/01.jpg)
-![Select Network Adapter IMG](https://github.com/HasinthaNayanajith/net-speed-checker/blob/main/02.jpg)
-![Select Network Adapter IMG](https://github.com/HasinthaNayanajith/net-speed-checker/blob/main/03.jpg)
-![Select Network Adapter IMG](https://github.com/HasinthaNayanajith/net-speed-checker/blob/main/meter1.jpg)
-![Select Network Adapter IMG](https://github.com/HasinthaNayanajith/net-speed-checker/blob/main/meter3.jpg)
-![Select Network Adapter IMG](https://github.com/HasinthaNayanajith/net-speed-checker/blob/main/meter4.jpg)
-![Select Network Adapter IMG](https://github.com/HasinthaNayanajith/net-speed-checker/blob/main/17.jpg)
-![Select Network Adapter IMG](https://github.com/HasinthaNayanajith/net-speed-checker/blob/main/18.jpg)
+![Select Network Adapter IMG](https://github.com/HasinthaNayanajith/net-speed-checker/raw/main/01.jpg)
+![Select Network Adapter IMG](https://github.com/HasinthaNayanajith/net-speed-checker/raw/main/02.jpg)
+![Select Network Adapter IMG](https://github.com/HasinthaNayanajith/net-speed-checker/raw/main/03.jpg)
+![Select Network Adapter IMG](https://github.com/HasinthaNayanajith/net-speed-checker/raw/main/meter1.jpg)
+![Select Network Adapter IMG](https://github.com/HasinthaNayanajith/net-speed-checker/raw/main/meter3.jpg)
+![Select Network Adapter IMG](https://github.com/HasinthaNayanajith/net-speed-checker/raw/main/meter4.jpg)
+![Select Network Adapter IMG](https://github.com/HasinthaNayanajith/net-speed-checker/raw/main/17.jpg)
+![Select Network Adapter IMG](https://github.com/HasinthaNayanajith/net-speed-checker/raw/main/18.jpg)
 
 [Download Net Speed Checker](https://github.com/HasinthaNayanajith/net-speed-checker/raw/main/Net%20Speed%20Checker%20v1-0-33.msi)
 Download File Version - Latest v1.0.33 (Beta) .msi Installer
